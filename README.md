@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 Opa,tu bem? espero que sim!
+
+Me chamo Raphael Santos, atualmente estou na facul de Ciências da Computação, apaixonado por técnologia, video game e futebol, diria até que é a combinação perfeita...
 
 <!--
 **Hierark/Hierark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
